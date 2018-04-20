@@ -1,0 +1,11 @@
+E:\vs project\3\Can Test\Can Test\bin\Debug\Can Test.exe.config
+E:\vs project\3\Can Test\Can Test\bin\Debug\Can Test.exe
+E:\vs project\3\Can Test\Can Test\bin\Debug\Can Test.pdb
+E:\vs project\3\Can Test\Can Test\obj\Debug\Can_Test.Form1.resources
+E:\vs project\3\Can Test\Can Test\obj\Debug\Can_Test.Properties.Resources.resources
+E:\vs project\3\Can Test\Can Test\obj\Debug\Can Test.csproj.GenerateResource.Cache
+E:\vs project\3\Can Test\Can Test\obj\Debug\Can Test.exe
+E:\vs project\3\Can Test\Can Test\obj\Debug\Can Test.pdb
+C:\Users\Administrator\Desktop\Can Tool20170210\Can Test\Can Test\bin\Debug\Can Test.exe.config
+C:\Users\Administrator\Desktop\Can Tool20170210\Can Test\Can Test\obj\Debug\Can Test.exe
+C:\Users\Administrator\Desktop\Can Tool20170210\Can Test\Can Test\obj\Debug\Can Test.pdb
